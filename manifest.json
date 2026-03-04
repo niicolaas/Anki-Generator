@@ -1,0 +1,11 @@
+{
+  "id": "anki-generator",
+  "name": "Anki Generator",
+  "description": "You need to create a ANKI of a note? No problem!",
+  "author": "Nicolas Gabriel (yExcept)",
+
+  "authorUrl": "https://github.com/niicolaas",
+
+  "minAppVersion": "0.11.0",
+  "version": "0.0.1"
+}
